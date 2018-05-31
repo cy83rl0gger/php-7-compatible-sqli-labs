@@ -1,1 +1,1 @@
-# php-7-compatible-sqli-labs
+# PHP-7 and MariaDB Compatible-sqli-labs
